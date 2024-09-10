@@ -75,6 +75,9 @@ Title: <<title>>
 
 You can access the page using this link: <<url>>
 ```
+#### Example of Google Sheets
+
+https://docs.google.com/spreadsheets/d/1IPl0DYPs0oUvn5gea6ga8kpb71irI1yjHL0gx5JUgB8/edit?usp=sharing
 
 ## Conclusion
 
